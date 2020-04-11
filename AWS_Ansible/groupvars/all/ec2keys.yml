@@ -1,0 +1,5 @@
+AWS_ACCESS_KEY_ID: <your_aws_access_key_id>
+AWS_SECRET_ACCESS_KEY: <your_aws_secret_access_key>
+
+#ansible-vault is not applied here so you can view it into plain text. For security purpose only template is provides.
+
